@@ -2,7 +2,7 @@
 
 Welcome to the official website of the **ISTE Student Chapter at PCCOE**! This static website showcases the club's initiatives, events, and resources in a visually engaging and user-friendly format. It reflects the innovative spirit and collaborative ethos of the ISTE community.
 
-Hosted on [Netlify](https://iste-pccoe.netlify.app/), the website delivers a fast, smooth, and responsive browsing experience.
+Hosted on [Netlify](https://splendorous-dolphin-a00501.netlify.app), the website delivers a fast, smooth, and responsive browsing experience.
 
 ---
 
